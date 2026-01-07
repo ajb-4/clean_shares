@@ -1,0 +1,13 @@
+# Rails backend
+clean_shares_backend/.bundle
+clean_shares_backend/log/*
+clean_shares_backend/tmp/*
+clean_shares_backend/db/*.sqlite3
+clean_shares_backend/public/system
+clean_shares_backend/.byebug_history
+clean_shares_backend/config/master.key
+
+# React frontend
+clean_shares_frontend/node_modules
+clean_shares_frontend/build
+clean_shares_frontend/.env
